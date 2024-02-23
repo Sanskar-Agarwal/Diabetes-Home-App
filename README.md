@@ -146,7 +146,7 @@ This project uses npm as package manager
 Clone the project
 
 ```bash
-  git clone https://github.com/ncko10/Web-IT-group/
+  git clone https://github.com/Sanskar-Agarwal/Diabetes-Home-App/
 ```
 
 Go to the project directory
