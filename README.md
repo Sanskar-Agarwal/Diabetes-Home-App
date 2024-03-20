@@ -12,9 +12,9 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Diabetes@Home Web Application</h1>
   
   <p>
-   We are Team H1. Our team comprises of Kian, Sanskar, Anh, Sean and Nic. Together we are creating web-based software for Diabetes@Home, a startup who plan to sell      digital health solutions.
+  I have created a web-based software for Diabetes@Home, a startup who plan to sell digital health solutions.
 
-   The first product we are designing is a web app which helps people to manage their diabetes in the conveniences of their own home.
+   This app helps people to manage their diabetes in the conveniences of their own home. It has patient side functionalities to update stats as well as doctor functionalities to manage patients. There is an interactive chat functionalitiy as well to help communication and diabetes management from home.
 
    Stay tuned for all future updates on this product.
   </p>
@@ -31,10 +31,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 <br />
 
   
-
-<!-- About the Project -->
-## :star2: About the Project
-
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -85,7 +81,8 @@ Maybe you can mention me or this repo in the acknowledgements too
   Manage patient data
 - Feature 3
   Take notes
-- And many more...
+- Feature 4
+  Interactive chat
 
 <!-- Color Reference -->
 ### :art: Color Reference
@@ -128,7 +125,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Web-IT-group
+  cd Diabetes-Home-App
 ```
 
 Install dependencies
@@ -149,33 +146,10 @@ Start the server
   nodemon app.js
 ```
 
-
-<!-- Roadmap -->
-## :compass: Roadmap
-
-* [x] Deliverable 1
-* [x] Deliverable 2
-* [x] Deliverable 3
-
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
 
 Please read the [Code of Conduct](https://github.com/Sanskar-Agarwal/Diabetes-Home-App/)
-
-<!-- License -->
-## :warning: License
-
-This web app is only for use for INFO30005 Web Information Technologies 2022 Semester 1 Project
-
-
-<!-- Contact -->
-## :handshake: Contact
-
-- Sanskar - sanskara@student.unimelb.edu.au
-- Yi Sheon Tan - ystan@student.unimelb.edu.au
-- Kian Dsouza - kiand@student.unimelb.edu.au
-- Anh
-- Nic 
 
 Project Link: https://github.com/Sanskar-Agarwal/Diabetes-Home-App/
 
