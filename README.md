@@ -9,14 +9,15 @@ Maybe you can mention me or this repo in the acknowledgements too
   <div align="center">
 
   <img src="public/images/logo-full.png" alt="logo" width="500" height="auto" />
-  <h1>Web Application</h1>
+  <h1>About</h1>
   </div>
   <p>
-  I have created a web-based application 'Diabetes@Home', to help diabetic patients manage their health from the convenience of their own homes.
+  Diabetes@Home is a web application that has been developed as an interactive application between a doctor and their patients to help them manage diabetes from the convenience of their own home.
 
-It has patient side functionalities to update stats as well as doctor functionalities to manage patients. There is an interactive chat functionalitiy to foster communication between the patient and doctor.
+  The project has been developed using Javascript, HTML and CSS. MongoDB has been used to store all patient information and the application has been deployed on Heroku.
+  Further information on the tech-stack and features can be found below.
 
-
+    
    <img src="public/images/readme/homepage.jpg" alt="home-page" />
    <img width="1119" alt="image" src="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/assets/86827884/5fe7b3d7-e42d-47f4-92f5-28e51ce519e3"> 
    <img width="1116" alt="image" src="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/assets/86827884/ce369f7f-94b2-488c-8a29-7a7813712435">
