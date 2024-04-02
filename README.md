@@ -6,11 +6,11 @@ or just open an issue with the label "enhancement".
 Don't forget to give this project a star for additional support ;)
 Maybe you can mention me or this repo in the acknowledgements too
 -->
-<div align="center">
+  <div align="center">
 
   <img src="public/images/logo-full.png" alt="logo" width="500" height="auto" />
   <h1>Web Application</h1>
-  
+  </div>
   <p>
   I have created a web-based application 'Diabetes@Home', to help diabetic patients manage their health from the convenience of their own homes.
 
