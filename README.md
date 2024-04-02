@@ -9,35 +9,23 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <img src="public/images/logo-full.png" alt="logo" width="500" height="auto" />
-  <h1>Diabetes@Home Web Application</h1>
+  <h1>Web Application</h1>
   
   <p>
-  I have created a web-based software for Diabetes@Home, a startup who plan to sell digital health solutions.
+  I have created a web-based application 'Diabetes@Home', to help diabetic patients manage their health from the convenience of their own homes.
 
-   This app helps people to manage their diabetes in the conveniences of their own home. It has patient side functionalities to update stats as well as doctor functionalities to manage patients. There is an interactive chat functionalitiy as well to help communication and diabetes management from home.
+It has patient side functionalities to update stats as well as doctor functionalities to manage patients. There is an interactive chat functionalitiy to foster communication between the patient and doctor.
 
-   Stay tuned for all future updates on this product.
+
+   <img src="public/images/readme/homepage.jpg" alt="home-page" />
+   <img width="1119" alt="image" src="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/assets/86827884/5fe7b3d7-e42d-47f4-92f5-28e51ce519e3"> 
+   <img width="1116" alt="image" src="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/assets/86827884/ce369f7f-94b2-488c-8a29-7a7813712435">
+   <img width="1118" alt="image" src="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/assets/86827884/44da314a-311e-4ff3-a49a-b618a6f2ad07">
+
   </p>
    
-<h4>
-    <a href="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Sanskar-Agarwal/Diabetes-Home-App/">Report Bug</a>
-  </h4>
-</div>
 
 <br />
-
-  
-
-<!-- Screenshots -->
-### :camera: Screenshots
-
-<div align="center"> 
-  <img src="public/images/readme/homepage.jpg" alt="home-page" />
-</div>
 
 
 <!-- TechStack -->
@@ -76,13 +64,13 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :dart: Features
 
 - Feature 1
-  Record patient data
+  Record Patient Data - Can be done by either client or Doctor
 - Feature 2
-  Manage patient data
+  Manage Patient Data - Parameters such as allowed insulin range set by Doctor only
 - Feature 3
-  Take notes
+  Take notes - Doctor can make notes on different patients that are not visible to patients
 - Feature 4
-  Interactive chat
+  Interactive chat - Patient and Doctor can message each other
 
 <!-- Color Reference -->
 ### :art: Color Reference
@@ -146,17 +134,9 @@ Start the server
   nodemon app.js
 ```
 
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Sanskar-Agarwal/Diabetes-Home-App/)
-
-Project Link: https://github.com/Sanskar-Agarwal/Diabetes-Home-App/
-
-
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+This project has been developed for INFO30005 Web IT Project by Sanskar, Kian and Sean.
 
 
