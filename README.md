@@ -14,7 +14,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <p>
   Diabetes@Home is a web application that has been developed as an interactive application between a doctor and their patients to help them manage diabetes from the convenience of their own home.
 
-  The project has been developed using Javascript, HTML and CSS. MongoDB has been used to store all patient information and the application had been deployed on Heroku(Since Heroku is a paid service and the free subscription was only valid for the subject, the link is no longer available(We are still on a student budget!).
+  The project has been developed using Javascript, HTML and CSS. MongoDB has been used to store all patient information and the application had been deployed on Heroku(Since Heroku is a paid service and the free subscription was only valid for the subject, the link is no longer available(We are still on a student budget!)).
   Further information on the tech-stack and features can be found below.
 
     
